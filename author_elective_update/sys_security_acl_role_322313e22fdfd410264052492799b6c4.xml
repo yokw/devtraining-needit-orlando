@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-20 06:21:05</sys_created_on>
+        <sys_id>322313e22fdfd410264052492799b6c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_approval_levels.x_58872_needit.approval_levels_user</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_security_acl display_value="x_58872_needit_approval_levels">fe2313e22fdfd410264052492799b6c0</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_322313e22fdfd410264052492799b6c4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-20 06:21:05</sys_updated_on>
+        <sys_user_role display_value="x_58872_needit.approval_levels_user" name="x_58872_needit.approval_levels_user">5e235b6a2f9fd410264052492799b6e9</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>19ee1a2ddbb8d708cbf6d5b0cf9619df</instance_id>
+        <instance_name>dev52435</instance_name>
+        <name>sys_security_acl_role_322313e22fdfd410264052492799b6c4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-20 06:21:05</sys_created_on><sys_id>322313e22fdfd410264052492799b6c4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit_approval_levels.x_58872_needit.approval_levels_user</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_security_acl display_value="x_58872_needit_approval_levels">fe2313e22fdfd410264052492799b6c0</sys_security_acl><sys_update_name>sys_security_acl_role_322313e22fdfd410264052492799b6c4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-20 06:21:05</sys_updated_on><sys_user_role display_value="x_58872_needit.approval_levels_user" name="x_58872_needit.approval_levels_user">5e235b6a2f9fd410264052492799b6e9</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-685830768</payload_hash>
+        <record_name>x_58872_needit_approval_levels.x_58872_needit.approval_levels_user</record_name>
+        <reverted_from/>
+        <source>131a68be2f6e1010264052492799b6d1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-20 06:21:05</sys_created_on>
+        <sys_id>7a2313e22fdfd410264052492799b6c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174aa2c53d10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-20 06:21:05</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>b22313e2d3dfd410ddc80b96f6cf5cc6</update_guid>
+        <update_guid_history>b22313e2d3dfd410ddc80b96f6cf5cc6:-685830768</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_58872_needit_approval_levels.x_58872_needit.approval_levels_user">0eb40d3e2f171810264052492799b6fa</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-20 14:37:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>6bcfbf8cf86b46108a7d677f21e98144</sys_id>
+        <sys_metadata>322313e22fdfd410264052492799b6c4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_approval_levels.x_58872_needit.approval_levels_user</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">fe2313e22fdfd410264052492799b6c0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_322313e22fdfd410264052492799b6c4</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_322313e22fdfd410264052492799b6c4">7a2313e22fdfd410264052492799b6c6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-20 14:37:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

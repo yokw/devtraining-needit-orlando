@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="current" label="Record" language="en" table="var__m_sys_hub_flow_input_c5cde7c7dba823004d5d56086896197a">
+    <sys_documentation element="u_priority" label="Priority" language="en" table="var__m_sys_decision_input_46f31fe22fdfd410264052492799b695">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>current</element>
+            <element>u_priority</element>
             <help/>
             <hint/>
-            <label>Record</label>
+            <label>Priority</label>
             <language>en</language>
-            <name>var__m_sys_hub_flow_input_c5cde7c7dba823004d5d56086896197a</name>
-            <plural/>
+            <name>var__m_sys_decision_input_46f31fe22fdfd410264052492799b695</name>
+            <plural>Priority</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-09-19 16:08:08</sys_created_on>
-            <sys_id>4dcde7c7dba823004d5d560868961983</sys_id>
+            <sys_created_on>2020-09-21 06:12:14</sys_created_on>
+            <sys_id>b2ba10072fdf1810264052492799b60a</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Record</sys_name>
+            <sys_name>Priority</sys_name>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
             <sys_policy/>
             <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-            <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_c5cde7c7dba823004d5d56086896197a_current_en</sys_update_name>
+            <sys_update_name>sys_documentation_var__m_sys_decision_input_46f31fe22fdfd410264052492799b695_u_priority_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-09-19 16:08:08</sys_updated_on>
+            <sys_updated_on>2020-09-21 06:12:14</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

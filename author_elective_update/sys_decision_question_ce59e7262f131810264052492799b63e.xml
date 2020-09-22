@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_question">
+    <sys_decision_question action="DELETE">
+        <active>true</active>
+        <answer>d26353e22fdfd410264052492799b606</answer>
+        <condition table="var__m_sys_decision_input_46f31fe22fdfd410264052492799b695">u_cost&lt;javascript:global.getCurrencyFilter('var__m_sys_decision_input_46f31fe22fdfd410264052492799b695','u_cost', 'USD;1000')^EQ<item endquery="false" field="u_cost" goto="false" newquery="false" operator="&lt;" or="false" value="javascript:global.getCurrencyFilter('var__m_sys_decision_input_46f31fe22fdfd410264052492799b695','u_cost', 'USD;1000')"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <decision_table display_value="Approval Policy">46f31fe22fdfd410264052492799b695</decision_table>
+        <default_answer>false</default_answer>
+        <input_table>var__m_sys_decision_input_46f31fe22fdfd410264052492799b695</input_table>
+        <label>Manager approval - cost threshold</label>
+        <order>100</order>
+        <sys_class_name>sys_decision_question</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-20 07:59:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ce59e7262f131810264052492799b63e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Manager approval - cost threshold</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_decision_question_ce59e7262f131810264052492799b63e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-20 07:59:36</sys_updated_on>
+    </sys_decision_question>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>19ee1a2ddbb8d708cbf6d5b0cf9619df</instance_id>
+        <instance_name>dev52435</instance_name>
+        <name>sys_decision_question_ce59e7262f131810264052492799b63e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_decision_question"><sys_decision_question action="INSERT_OR_UPDATE"><active>true</active><answer>d26353e22fdfd410264052492799b606</answer><condition table="var__m_sys_decision_input_46f31fe22fdfd410264052492799b695">u_cost&lt;javascript:global.getCurrencyFilter('var__m_sys_decision_input_46f31fe22fdfd410264052492799b695','u_cost', 'USD;1000')^EQ<item endquery="false" field="u_cost" goto="false" newquery="false" operator="&lt;" or="false" value="javascript:global.getCurrencyFilter('var__m_sys_decision_input_46f31fe22fdfd410264052492799b695','u_cost', 'USD;1000')"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></condition><decision_table display_value="Approval Policy">46f31fe22fdfd410264052492799b695</decision_table><default_answer>false</default_answer><input_table>var__m_sys_decision_input_46f31fe22fdfd410264052492799b695</input_table><label>Manager approval - cost threshold</label><order>100</order><sys_class_name>sys_decision_question</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-09-20 07:59:03</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ce59e7262f131810264052492799b63e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Manager approval - cost threshold</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_decision_question_ce59e7262f131810264052492799b63e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-09-20 07:59:36</sys_updated_on></sys_decision_question></record_update>]]></payload>
+        <payload_hash>-2132373867</payload_hash>
+        <record_name>Manager approval - cost threshold</record_name>
+        <reverted_from/>
+        <source>131a68be2f6e1010264052492799b6d1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-20 07:59:36</sys_created_on>
+        <sys_id>bdb963662f131810264052492799b672</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174aa8685f10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-20 07:59:36</sys_updated_on>
+        <type>Decision</type>
+        <update_guid>f5b963662e131810a07bef3d35584b72</update_guid>
+        <update_guid_history>f5b963662e131810a07bef3d35584b72:-2132373867,3599ef262a1318106016c8302f4e80a7:1601809465</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-21 06:21:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_decision_question">sys_decision_question</sys_db_object>
+        <sys_id>31c56fc268e64fb88a739007064cfe90</sys_id>
+        <sys_metadata>ce59e7262f131810264052492799b63e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Manager approval - cost threshold</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_decision_question_ce59e7262f131810264052492799b63e</sys_update_name>
+        <sys_update_version display_value="sys_decision_question_ce59e7262f131810264052492799b63e">bdb963662f131810264052492799b672</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-21 06:21:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
